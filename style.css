@@ -59,6 +59,7 @@ nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
+    flex-wrap:wrap;
     
 }
 
@@ -67,6 +68,7 @@ nav{
     display: flex;
     margin-right: 2px;
     padding: 3px;
+    flex-wrap:wrap;
     
 }
 
