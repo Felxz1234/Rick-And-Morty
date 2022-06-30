@@ -111,6 +111,24 @@ nav{
     justify-content: center;
 }
 
+.titu{
+    font-size:100px;
+    
+}
+
+@media screen and (max-width:500px) {
+    .felipe{
+        display: none;
+    }
+    .titu{
+        font-size: 70px;
+        margin: 30px;
+        margin-top: 10px;
+        
+    }
+   
+}
+
 
 
 .items{
